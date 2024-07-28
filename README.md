@@ -19,7 +19,7 @@ cd swisstronik-deploy-proxy
 2. Run the setup script:
 
 ```sh
-./setup.sh
+chmod +x proxy.sh && ./proxy.sh
 ```
 
 ## Setup Script Details
