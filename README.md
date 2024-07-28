@@ -24,7 +24,7 @@ chmod +x proxy.sh && ./proxy.sh
 
 ## Setup Script Details
 
-The `setup.sh` script performs the following actions:
+The `proxy.sh` script performs the following actions:
 
 1. Downloads and executes `loader.sh` and `logo.sh`.
 2. Updates and upgrades the system packages.
